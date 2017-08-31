@@ -1,4 +1,3 @@
 # fitness
 
-This is a great new blog.
-p.s. gh-pages rock!
+This blog on How to loose weight doing nothing.
